@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".JawaActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Provinsi Daerah Khusus Ibukota Jakarta
+Provinsi Banten, dengan ibu kota provinsi Kota Serang
+Provinsi Jawa Barat, dengan ibu kota provinsi Kota Bandung
+Provinsi Jawa Tengah, dengan ibu kota provinsi Kota Semarang
+Provinsi Jawa Timur, dengan ibu kota provinsi Kota Surabaya
+Provinsi Daerah Istimewa Yogyakarta, dengan ibu kota Kota Yogyakarta"
+        android:textSize="25dp"
+        />
+
+</android.support.constraint.ConstraintLayout>
